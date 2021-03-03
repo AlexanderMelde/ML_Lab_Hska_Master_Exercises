@@ -8,6 +8,7 @@ Joachim Steinwendner, Roland Schwaiger <br>
 Neuronale Netze programmieren mit Python: Der Einstieg in die Künstliche Intelligenz. Mit KI-Lernumgebung, Python-Crashkurs, Keras und TensorFlow 2 <br>
 
 
+
 Overview: <br>
 Exercise 1 - Python for Machine Learning <br>
 Exercise 2 - Exploratory data analysis, Simple Classifier <br>
