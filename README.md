@@ -1,6 +1,6 @@
 # ML Lab Hska Master Exercises
 
-Das Labor baut of folgenden Büchern auf: <br>
+Das Labor baut auf folgenden Büchern auf: <br>
 Sebastian Raschka <br>
 Machine Learning mit Python und Keras, TensorFlow 2 und Scikit-learn: Das umfassende Praxis-Handbuch für Data Science, Deep Learning und Predictive Analytics. <br>
 
