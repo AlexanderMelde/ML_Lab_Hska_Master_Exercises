@@ -1,4 +1,4 @@
-# ML Lab Hska Master Exercises
+# ML Lab HsKA Master Exercises
 
 Das Labor baut auf folgenden Büchern auf: <br>
 Sebastian Raschka <br>
